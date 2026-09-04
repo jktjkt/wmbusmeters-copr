@@ -13,6 +13,7 @@ driver {
         mvt = KAW,3a,16
         // flowiq2200
         mvt = KAW,3c,16
+        mvt = KAW,3c,06
         // flowiq2200
         mvt = KAM,1d,16
         // KWM2230 / 3230, warm
